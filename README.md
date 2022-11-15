@@ -41,7 +41,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data
 
-The diabetes dataset consists of 1025 data points, with each datapoint having 13 features. This dataset is Heart Disease Dataset found on the kaggle.
+The heart dataset consists of 1025 data points, with each datapoint having 13 features. This dataset is Heart Disease Dataset found on the kaggle.
 
 **Features**
 1. `age`: age in years
